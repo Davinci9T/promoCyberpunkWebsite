@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+
+@font-face {
+  font-family: 'Stalinist';
+  src: url('../fonts/StalinistOneRegular.woff2') format('woff2'), 
+    url('../fonts/StalinistOneRegular.woff') format('woff');
+  font-display: swap;
+  font-weight: 400;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/RobotoLight.woff2') format('woff2'), 
+    url('../fonts/RobotoLight.woff') format('woff');
+  font-display: swap;
+  font-weight: 300;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/RobotoRegular.woff2') format('woff2'), 
+    url('../fonts/RobotoRegular.woff') format('woff');
+  font-display: swap;
+  font-weight: 400;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/RobotoBold.woff2') format('woff2'), 
+    url('../fonts/RobotoBold.woff') format('woff');
+  font-display: swap;
+  font-weight: 700;
+  font-size: normal;
+}
